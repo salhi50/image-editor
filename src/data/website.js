@@ -3,9 +3,7 @@ const imageEditor = {
     tools: [
         {
             name: 'Image Adjusment',
-            subName: 'Adjusment',
-            description: 'Adjust your image online with more than 10 adjusment tools.',
-            path: '/image-editor'
+            description: 'Adjust your image online with 6 adjusment tools.',
         }
     ]
 }
